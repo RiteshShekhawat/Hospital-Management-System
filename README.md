@@ -36,13 +36,13 @@ Built using **Java Swing**, **JDBC**, and **MySQL**, the system emphasizes modul
 HospitalManagementSystem/
 │
 ├── src/hospital/management/system/
-│ ├── Login.java
-│ ├── NEW_PATIENT.java
-│ ├── Reception.java
-│ ├── Room.java
-│ ├── patient_discharge.java
-│ ├── update_patient_details.java
-│ └── conn.java # JDBC connection
+│ ├── Login.java 
+│ ├── NEW_PATIENT.java 
+│ ├── Reception.java 
+│ ├── Room.java 
+│ ├── patient_discharge.java 
+│ ├── update_patient_details.java 
+│ └── conn.java # JDBC connection 
 │
 ├── icon/
 │ └── *.png # UI image assets

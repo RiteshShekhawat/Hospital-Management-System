@@ -54,7 +54,7 @@ HospitalManagementSystem/
 ![Screenshot 2025-05-25 204258](https://github.com/user-attachments/assets/7f6e3325-0910-4285-9622-de8eb1a2b7f7)
 ![Screenshot 2025-05-25 204351](https://github.com/user-attachments/assets/e81f89b9-aa0b-445f-a1f4-4ae833e39731)
 
-DATABASE
+DATABASE-
 ![Screenshot 2025-05-25 215137](https://github.com/user-attachments/assets/3fe15515-4958-4eb3-8731-771cae33011d)
 
 

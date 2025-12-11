@@ -1,6 +1,6 @@
 #  Cure Logix – Hospital Management System
 The Cure Logix is a software application built using Java to manage patient and doctor records, appointments, and medical history in a hospital environment. 
-It uses a graphical user interface (Java Swing) and stores all data in an SQL database![image]
+It uses a graphical user interface (Java Swing) and stores all data in an SQL database!
 
 
 **Cure Logix** is a Java-based desktop application designed to streamline hospital operations.
